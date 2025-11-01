@@ -50,6 +50,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "vss-web-extension-sdk": "2.115.0"
+    "vss-web-extension-sdk": "2.117.0"
   }
 }
